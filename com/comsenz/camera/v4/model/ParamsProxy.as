@@ -18,12 +18,11 @@
         public function init(param1:DisplayObjectContainer) : void
         {
             this.params.init(param1);
-            return;
         }// end function
 
-        public function getActionParams(param1:String, param2:String = "") : String
+        public function getActionParams(param1:String) : String
         {
-            return this.params.getActionParams(param1, param2);
+            return this.params.getActionParams(param1);
         }// end function
 
         public function get params() : Params

@@ -37,8 +37,8 @@
 					<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,0,0,0" width="450" height="253" id="camera" align="middle">
 						<param name="allowScriptAccess" value="sameDomain" />
 						<param name="allowFullScreen" value="false" />
-						<param name="movie" value="camera.swf?debug=1" /><param name="quality" value="high" /><param name="bgcolor" value="#ffffff" />
-						<embed src="camera.swf?debug=1" quality="high" bgcolor="#ffffff" width="450" height="253" name="camera" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.adobe.com/go/getflashplayer_cn" />
+						<param name="movie" value="camera.swf" /><param name="quality" value="high" /><param name="bgcolor" value="#ffffff" />
+						<embed src="camera.swf" quality="high" bgcolor="#ffffff" width="450" height="253" name="camera" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.adobe.com/go/getflashplayer_cn" />
 					</object>
 				</td>
 			</tr>
